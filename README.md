@@ -1,2 +1,2 @@
-# Lab2
+# Lab02
 Prosta gra 2D.

@@ -1,1 +1,2 @@
-# lab02_gra2d
+# Lab2
+Prosta gra 2D.
